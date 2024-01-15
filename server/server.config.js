@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://hw.webapp.dedyn.io/'
+const BAREURL = 'https://15.vmwaregtm.workers.dev/'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
